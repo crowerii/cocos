@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>edu.webcockos</groupId>
 	<artifactId>crow</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>crowTest</name>
 	<description>Demo project for Spring Boot</description>
